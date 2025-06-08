@@ -1,0 +1,33 @@
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\bin\Debug\A05.exe.config
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\bin\Debug\A05.exe
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\bin\Debug\A05.pdb
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.csproj.AssemblyReference.cache
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.Form1.resources
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.Form2.resources
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.Properties.Resources.resources
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.csproj.GenerateResource.cache
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.csproj.CoreCompileInputs.cache
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.exe
+C:\Users\profesor04\Documents\IV2\Ničevski\A05\A05\obj\Debug\A05.pdb
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\bin\Debug\A05.exe.config
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\bin\Debug\A05.exe
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\bin\Debug\A05.pdb
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.csproj.AssemblyReference.cache
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.Form1.resources
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.Form2.resources
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.Properties.Resources.resources
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.csproj.GenerateResource.cache
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.csproj.CoreCompileInputs.cache
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.exe
+D:\yes\IV2 Programiranje\Dejan Sekesan\Zadaci iz prirucnika sa bazama\A05\A05\obj\Debug\A05.pdb
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\bin\Debug\A05.exe.config
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\bin\Debug\A05.exe
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\bin\Debug\A05.pdb
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.csproj.AssemblyReference.cache
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.Form1.resources
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.Form2.resources
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.Properties.Resources.resources
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.csproj.GenerateResource.cache
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.csproj.CoreCompileInputs.cache
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.exe
+C:\Users\Zihajlo\Desktop\School\Programiranje\A05\A05\obj\Debug\A05.pdb

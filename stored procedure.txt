@@ -1,0 +1,30 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[usp_Aktivnost]
+@sifra AS INT = NULL, 
+@nazivaktivnosti AS NVARCHAR(50)=null, 
+@danid AS INT = NULL, 
+@pocetak AS DATETIME = null, 
+@zavrsetak AS DATETIME = null, 
+@akcija AS INT = NULL AS
+  
+IF(@akcija=0)
+BEGIN
+SELECT AktivnostID, NazivAktivnosti, DanID, Pocetak, Zavrsetak FROM Aktivnosti AS a WHERE a.AktivnostID=@sifra OR @sifra IS NULL
+END
+ 
+IF(@akcija=1)
+BEGIN
+INSERT INTO Aktivnosti(NazivAktivnosti, DanID, Pocetak, Zavrsetak) VALUES (@nazivaktivnosti, @danid, @pocetak, @zavrsetak)
+END
+ 
+IF(@akcija=2)
+BEGIN
+SELECT Dan AS Dan, COUNT(Datum) AS BrojDece
+FROM Aktivnosti A
+JOIN Registar_Aktivnosti RA ON A.AktivnostID=RA.AktivnostID
+JOIN Dan D ON A.DanID=D.DanID
+GROUP BY Dan
+END
