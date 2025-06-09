@@ -68,27 +68,33 @@ namespace A05
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            if (textBox1.Text == String.Empty)
-            {
-                ObrisiPolja();
-            }
-            else
-            {
-                Aktivnost a = new Aktivnost(Convert.ToInt32(textBox1.Text));
-                textBox2.Text = a.NazivAktivnosti;
-                switch (a.DanID)
-                {
-                    case 1: comboBox1.Text = "Ponedeljak"; break;
-                    case 2: comboBox1.Text = "Utorak"; break;
-                    case 3: comboBox1.Text = "Sreda"; break;
-                    case 4: comboBox1.Text = "Četvrtak"; break;
-                    case 5: comboBox1.Text = "Petak"; break;
-                    case 6: comboBox1.Text = "Subota"; break;
-                    case 7: comboBox1.Text = "Nedelja"; break;
-                }
-                textBox3.Text = a.Pocetak.ToString("HH:mm");
-                textBox4.Text = a.Zavrsetak.ToString("HH:mm");
-            }
+           try
+        {
+    if (textBox1.Text == String.Empty)
+    {
+        ObrisiPolja();
+    }
+    else
+    {
+        Aktivnost a = new Aktivnost(Convert.ToInt32(textBox1.Text));
+        textBox2.Text = a.NazivAktivnosti;
+        switch (a.DanID)
+        {
+            case 1: comboBox1.Text = "Ponedeljak"; break;
+            case 2: comboBox1.Text = "Utorak"; break;
+            case 3: comboBox1.Text = "Sreda"; break;
+            case 4: comboBox1.Text = "Četvrtak"; break;
+            case 5: comboBox1.Text = "Petak"; break;
+            case 6: comboBox1.Text = "Subota"; break;
+            case 7: comboBox1.Text = "Nedelja"; break;
+        }
+        textBox3.Text = a.Pocetak.ToString("HH:mm");
+        textBox4.Text = a.Zavrsetak.ToString("HH:mm");
+    }
+}
+catch {
+    MessageBox.Show("Validnu sifru pls");
+}
         }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
